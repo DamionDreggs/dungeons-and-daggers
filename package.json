@@ -1,0 +1,13 @@
+{
+    "name": "dungeons-and-daggers",
+    "version": "0.0.1",
+    "description": "Munchkin style RPG adventure.",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "ejs": "^3.1.6",
+        "express": "^4.17.3"
+    }
+}
